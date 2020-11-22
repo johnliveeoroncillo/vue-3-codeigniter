@@ -1,0 +1,7 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><base href="/vue-ci/"><link rel="icon" href="/vue-ci/assets/vue-ci.png"><link rel="stylesheet" href="assets/css/bootstrap.min.css"><title>vue-ci</title><link href="/vue-ci/css/app.2ec5f740.css" rel="preload" as="style"><link href="/vue-ci/js/app.fd81c483.js" rel="preload" as="script"><link href="/vue-ci/assets/js/chunk-vendors.efcad132.js" rel="preload" as="script"><link href="/vue-ci/assets/css/app.2ec5f740.css" rel="stylesheet"></head><body><noscript><strong>We're sorry but vue-ci doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id="app"></div><script src="assets/js/jquery-3.5.1.slim.min.js"></script><script src="assets/js/bootstrap.bundle.min.js"></script><script>$(function () {
+        'use strict'
+
+        $('[data-toggle="offcanvas"]').on('click', function () {
+          $('.offcanvas-collapse').toggleClass('open')
+        })
+      })</script><script src="/vue-ci/assets/js/chunk-vendors.efcad132.js"></script><script src="/vue-ci/assets/js/app.fd81c483.js"></script></body></html>
